@@ -1,0 +1,85 @@
+///////////////////////////////////////////////////////////////////////////////
+//
+// Title: _variables.scss                 
+// Author:  Leslie Ho Zong Hong
+// Created: 25-08-2018
+// Description: variable specifications for The G6 Project
+//
+// Last Modified By: Leslie Ho Zong Hong
+// Last Modified On: 25-08-2018
+//
+///////////////////////////////////////////////////////////////////////////////
+
+
+//-------------------------------------
+// Colors
+//-------------------------------------
+
+// Primary (background, cardView, etc.)
+$colorLightPrimary:             #303038;     // Tuna Grey
+$colorMediumPrimary:            #23232C;     // Shark Grey
+$colorDarkPrimary:              #1A1A1D;     // Shark Grey Darker
+
+// Secondary (CTAs, buttons, menu, etc.)
+$colorLightSecondary:           #A36F9A;     // Bouquet Purple
+$colorMediumSecondary:          #883677;     // Plum Purple
+$colorDarkSecondary:            #70275E;     // Tawny Port Purple
+
+$colorLightSecondary2:          #FCB9B2;     // Melon Salmon
+$colorMediumSecondary2:         #E06F60;     // Sunglo Salmon
+$colorDarkSecondary2:           #C9614D;     // Chestnut Rose
+
+// Accent (tags, T&C, etc.)
+$colorLightAccent:              #3ACFB3;     // Shamrock Green
+$colorMediumAccent:             #00B295;     // Persian Green
+$colorDarkAccent:               #009C89;     // Persian Green Darker
+
+// States (navbar only)
+$colorDefault:                  #4F4F56;     // Abbey Grey
+$colorActive:                   #FFFFFF;     // White
+
+// Essentials
+$colorBlack:                    #000000;     // Black
+$colorWhite:                    #FFFFFF;     // White
+$colorGrey:                     #9A9A98;     // Grey
+
+//-------------------------------------
+// Spacings
+//-------------------------------------
+
+$spaceXXSmall:    10px;
+$spaceXSmall:     12px;
+$spaceSmall:      16px;
+$spaceRegular:    18px;
+$spaceLarge:      20px;
+$spaceXLarge:     22px;
+$spaceXXLarge:    25px;
+
+//-------------------------------------
+// Font Sizes
+//-------------------------------------
+
+$fontsizeXXSmall:  8px;
+$fontsizeXSmall:   12px;
+$fontsizeSmall:    14px;
+$fontsizeRegular:  16px;
+$fontsizeLarge:    20px;
+$fontsizexLarge:   22px;
+$fontsizeXXL:      24px;
+$fontsizeXXXL:     38px;
+
+//-------------------------------------
+// Line separators
+//-------------------------------------
+
+// line weight
+$lineThin:        1px;
+$lineThick:       2px;
+
+// line color
+$lineColorThin:   $colorDefault;
+$lineColorThick:  $colorDefault;
+
+
+////////////////////////////////END OF SCSS////////////////////////////////////
+
